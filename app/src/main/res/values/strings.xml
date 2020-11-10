@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MOB201_Slide5_RSS</string>
+    <string name="rss_text">https://vnexpress.net/rss/tin-moi-nhat.rss</string>
+    <string name="rss_trangthai" />
+    <string name="rss_taitrang">Download</string>
+
+    <string name="title_activity_web">webActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
